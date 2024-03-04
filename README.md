@@ -44,6 +44,7 @@ Make sure you have the necessary permissions to read the IMDb dataset file and t
 
 - IMDb for providing the dataset.
 - Kaggle for hosting the IMDb dataset.
+- [https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download](url)
 - Developers of NumPy, pandas, and scikit-learn for their contributions to the Python ecosystem.
 
 ## License
