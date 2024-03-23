@@ -2,7 +2,7 @@
 
 This project aims to perform sentiment analysis on movie reviews using Python, NumPy, pandas, scikit-learn, and the IMDb dataset from Kaggle. The IMDb dataset contains labeled movie reviews indicating whether each review is positive or negative.
 
-I have also deployed it on a website in this repository: [[https://github.com/incheif/SentimentAnalyseWithDeployment](https://github.com/incheif/SentimentAnalyseWithDeployment)](url)
+I have also deployed it on a website in this repository: [[https://github.com/incheif/SentimentAnalyseWithDeployment](https://github.com/incheif/SentimentAnalyseWithDeployment)]
 ## Installation
 
 Before running the project, make sure you have Python installed on your system. You can install the required libraries using pip:
